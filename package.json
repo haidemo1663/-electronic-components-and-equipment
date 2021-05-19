@@ -20,7 +20,8 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.10.15"
+    "mongoose": "^5.10.15",
+    "monkeylearn": "^3.4.0"
   },
   "engines": {
     "node": "12.x"
